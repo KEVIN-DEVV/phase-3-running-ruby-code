@@ -14,10 +14,11 @@
 # # 1 + 1
 # puts add + add
 
-def add num1, num2
-    puts num1
-    puts num2
-    num1 + num2
-end
+#app.rb
+puts "Hello World!"
 
-puts add(1,3) + add(2,2)
+#app.rb
+print "Pass this test, please."
+
+#app.rb
+p [1,2,3]
